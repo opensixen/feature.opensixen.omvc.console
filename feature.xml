@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="feature.opensixen.omvc.console"
-      label="Feature-console"
+      label="OMVC Console"
       version="1.0.0.qualifier">
 
-   <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+   <description url="http://www.opensixen.rog">
+      Open Model Version Control managment console.
    </description>
 
    <copyright url="http://www.example.com/copyright">
